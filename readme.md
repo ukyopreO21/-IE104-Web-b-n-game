@@ -2,7 +2,6 @@
 ``` node -v ```
 ```  npm -v ```
 # Nếu có thì tiếp tục cài
-```  npm i express ```
-``` npm i nodemon ```
+``` npm i ```
 # Chạy server
 ``` npm start ```
