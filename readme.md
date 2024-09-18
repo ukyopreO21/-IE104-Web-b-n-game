@@ -5,4 +5,4 @@
   ```  npm i express ```
     ``` npm i nodemon ```
 # Chạy server
-    ``` npm start ```
+    ```npm start```
